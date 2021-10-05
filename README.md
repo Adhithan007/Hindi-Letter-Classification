@@ -1,4 +1,4 @@
-# Hindi-Letter-Classification]
+# Hindi-Letter-Classification
 
 For Dataset:
      dataset:  https://drive.google.com/drive/folders/19nXKEkyBdqX5AWxOo0Gjt2zKhyof1gk1?usp=sharing
